@@ -1,2 +1,4 @@
 # Card-Info-Extractor
 Key Information Etraction from cards
+
+The project "Card Info Extractor" utilizes three primary Python libraries: OpenCV (Open Computer Vision), Pytesseract, and Regex. OpenCV (cv2) is employed for loading images and fine-tuning them to ensure optimal processing. Pytesseract serves as the OCR (Optical Character Recognition) tool, converting image text into machine-readable format, while Regex deciphers patterns within the data. The integration of these libraries, alongside the utilization of Django web framework, ensures a seamless and secure extraction process for key information from various sources. By leveraging these technologies, the project enhances user experience by providing a robust platform for efficient data extraction while maintaining security and ease of use.
